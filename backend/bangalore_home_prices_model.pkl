@@ -1,0 +1,7 @@
+€•N      Œsklearn.linear_model._base”ŒLinearRegression”“”)”}”(Œ
+fit_intercept”ˆŒcopy_X”ˆŒn_jobs”NŒpositive”‰Œfeature_names_in_”Œjoblib.numpy_pickle”ŒNumpyArrayWrapper”“”)”}”(Œsubclass”Œnumpy”Œndarray”“”Œshape”K…”Œorder”ŒC”Œdtype”hŒdtype”“”ŒO8”‰ˆ‡”R”(KŒ|”NNNJÿÿÿÿJÿÿÿÿK?t”bŒ
+allow_mmap”‰Œnumpy_array_alignment_bytes”Kub€•±       Œnumpy._core.multiarray”Œ_reconstruct”“”Œnumpy”Œndarray”“”K …”Cb”‡”R”(KK…”hŒdtype”“”ŒO8”‰ˆ‡”R”(KŒ|”NNNJÿÿÿÿJÿÿÿÿK?t”b‰]”(Œ
+total_sqft”Œbath”Œbhk”Œ
+Whitefield”et”b.•b       Œn_features_in_”KŒcoef_”h)”}”(hhhK…”hhhhŒf8”‰ˆ‡”R”(KŒ<”NNNJÿÿÿÿJÿÿÿÿK t”bhˆh KubÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÆW™e²¬´?º^!m^Ø ÀTK0Ùd¼@¼õQœ(À•9       Œrank_”KŒ	singular_”h)”}”(hhhK…”hhhh(hˆh Kub
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÔ{oðzàÁ@u?¨&å:@£õSÉº@	cü?•`       Œ
+intercept_”Œnumpy._core.multiarray”Œscalar”“”h(Cä¡ý§è»2À”†”R”Œ_sklearn_version”Œ1.6.1”ub.
